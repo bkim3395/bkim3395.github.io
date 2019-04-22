@@ -3497,3 +3497,25 @@ input, select, textarea {
 			}
 
 	}
+
+	.nyc-img{
+		height: 12.5em;
+	}
+
+	.nyc-p{
+		margin: 0 0 3.4em 0;
+	}
+
+	.project-links-container{
+		width: 100%;
+		display: flex;
+		justify-content: center;
+	}
+
+	.project-links{
+		display: flex;
+		width: 50%;
+		justify-content: space-between;
+		margin: 0;
+		font-size: 1.4em;
+	}
